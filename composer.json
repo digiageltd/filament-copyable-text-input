@@ -1,0 +1,22 @@
+{
+    "name": "digiage/copyable-text-input",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Digiage\\CopyableTextInput\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Atanasov",
+            "email": "i.atanasov@digiage.bg"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.3",
+        "filament/support": "^3.2"
+    }
+}
